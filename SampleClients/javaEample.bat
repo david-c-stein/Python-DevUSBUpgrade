@@ -1,0 +1,1 @@
+javac -cp ".;./java-websocket-1.3.0.jar;org.json.jar" JavaClientExample.java
